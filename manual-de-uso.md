@@ -203,7 +203,7 @@ Type "help" for commands
 | `content_stats`                          | Lista estatísticas por tipo MIME (imagens, vídeos, etc.)        |                     |                                |
 | `node_stats`                             | Exibe estatísticas de nós online e reputações médias            |                     |                                |
 | `list_reports`                           | Lista reportes pendentes de moderação                           |                     |                                |
-| `resolve_report <id>                     | warn                                                            | `[ban] ou [ignore]` | Resolve um reporte manualmente |
+| `resolve_report <id>`                    | warn                                                            | `[ban] ou [ignore]` | Resolve um reporte manualmente |
 | `sync_network`                           | Inicia sincronização com outros servidores conhecidos           |                     |                                |
 | `exit`                                   | Encerra o servidor com segurança                                |                     |                                |
 | `help`                                   | Exibe lista de comandos disponíveis                             |                     |                                |
