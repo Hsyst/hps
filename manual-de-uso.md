@@ -194,19 +194,19 @@ Type "help" for commands
 
 #### 🧾 Lista de Comandos
 
-| Comando                                  | Descrição                                                       |          |                                |
-| ---------------------------------------- | --------------------------------------------------------------- | -------- | ------------------------------ |
-| `online_users`                           | Lista usuários online e autenticados                            |          |                                |
-| `ban_user <username> <duração> <motivo>` | Bane um usuário temporariamente                                 |          |                                |
-| `reputation <username> [nova_reputação]` | Consulta ou altera a reputação                                  |          |                                |
-| `server_stats`                           | Mostra estatísticas do servidor (usuários, conteúdo, DNS, etc.) |          |                                |
-| `content_stats`                          | Lista estatísticas por tipo MIME (imagens, vídeos, etc.)        |          |                                |
-| `node_stats`                             | Exibe estatísticas de nós online e reputações médias            |          |                                |
-| `list_reports`                           | Lista reportes pendentes de moderação                           |          |                                |
-| `resolve_report <id> [ban                | warn                                                            | ignore]` | Resolve um reporte manualmente |
-| `sync_network`                           | Inicia sincronização com outros servidores conhecidos           |          |                                |
-| `exit`                                   | Encerra o servidor com segurança                                |          |                                |
-| `help`                                   | Exibe lista de comandos disponíveis                             |          |                                |
+| Comando                                  | Descrição                                                       |                     |                                |
+| ---------------------------------------- | --------------------------------------------------------------- | ------------------- | ------------------------------ |
+| `online_users`                           | Lista usuários online e autenticados                            |                     |                                |
+| `ban_user <username> <duração> <motivo>` | Bane um usuário temporariamente                                 |                     |                                |
+| `reputation <username> [nova_reputação]` | Consulta ou altera a reputação                                  |                     |                                |
+| `server_stats`                           | Mostra estatísticas do servidor (usuários, conteúdo, DNS, etc.) |                     |                                |
+| `content_stats`                          | Lista estatísticas por tipo MIME (imagens, vídeos, etc.)        |                     |                                |
+| `node_stats`                             | Exibe estatísticas de nós online e reputações médias            |                     |                                |
+| `list_reports`                           | Lista reportes pendentes de moderação                           |                     |                                |
+| `resolve_report <id>                     | warn                                                            | `[ban] ou [ignore]` | Resolve um reporte manualmente |
+| `sync_network`                           | Inicia sincronização com outros servidores conhecidos           |                     |                                |
+| `exit`                                   | Encerra o servidor com segurança                                |                     |                                |
+| `help`                                   | Exibe lista de comandos disponíveis                             |                     |                                |
 
 ---
 
