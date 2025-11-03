@@ -52,7 +52,7 @@ O navegador abrirá uma janela gráfica principal, com a seguinte estrutura:
 ╠══════════════════════════════════════════════════════════════════╣
 ║ [Barra superior]   Barra de endereço HPS:// + Botões Navegação   ║
 ║ [Painel esquerdo]  Histórico, Uploads, DNS, Reportes, Pesquisa   ║
-║ [Área principal]   Exibição de conteúdo e resultados              ║
+║ [Área principal]   Exibição de conteúdo e resultados             ║
 ║ [Rodapé]           Status de rede e reputação                    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
