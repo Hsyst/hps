@@ -1,3 +1,8 @@
+# AVISO
+- Este projeto não é open-source, verifique a [licença](https://github.com/Hsyst/hps/blob/main/LICENSE.md) antes de executar ou replicar
+
+# Manual Técnico
+- Quer saber a parte mais profunda do projeto? [Clique Aqui](https://github.com/Hsyst/hps/blob/main/tecnico.md)
 # 🧭 Manual do Usuário — Hsyst Peer-to-Peer Service (HPS)
 
 ## Introdução
