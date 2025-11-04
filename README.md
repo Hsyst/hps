@@ -1,3 +1,7 @@
+# Está em uma distribuição linux?
+- Temos a versão compilada do software, baixe e execute!
+- [Clique aqui](https://github.com/Hsyst/hps/releases)
+
 # AVISO
 - Este projeto não é open-source, verifique a [licença](https://github.com/Hsyst/hps/blob/main/LICENSE.md) antes de executar ou replicar
 
