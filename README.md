@@ -138,6 +138,43 @@ Você pode copiar o hash, abrir o arquivo localmente, ou reportar conteúdo.
 1. Vá até o menu de opções e selecione **“Sincronizar Rede”**.
 2. Uma janela mostrará o progresso de sincronização entre servidores conhecidos (lista de peers e nós ativos).
 
+
+#### 🔸 Transferir Domínios
+
+1. No menu de opções, clique em **“Upload”**.
+2. Crie um arquivo em sua máquina com o formato abaixo:
+```
+# HSYST P2P SERVICE
+### START:
+# USER: <DONO(A) ATUAL DO DOMINIO>
+### :END START
+### DNS:
+# NEW_DNAME: DOMAIN = <NOME_DO_DOMINIO>
+# NEW_DOWNER: OWNER = <NOVO_DONO_DO_DOMINIO>
+### :END DNS
+### MODIFY:
+# change_dns_owner = true
+# proceed = true
+### :END MODIFY
+```
+3. Realize upload do arquivo com o formato acima, com o título `(HPS!dns_change){change_dns_owner=true, proceed=true}`
+4. Pronto! Ao finalizar o upload, o domínio já estará transferido.
+
+#### 🔸 Criando API Apps
+
+1. No menu de opções, clique em **“Upload”**.
+2. Selecione o arquivo que deseja realizar upload (e poder modifica-lo no futuro)
+3. Realize upload com o título `(HPS!api){app}:{"NOME QUE QUER DAR PARA A APLICACAO"}`
+4. Pronto! Ao realizar o upload, ele estará disponível para acesso normal.
+
+### 🔸 Atualizando API Apps
+
+1. Crie o API App
+2. No menu de opções, clique em **“Upload”**.
+3. Selecione o arquivo que deseja substituir pelo atual
+4. Realize upload com o título `(HPS!api){app}:{"NOME DA APLICACAO QUE CRIOU"}`
+5. Pronto! Ao realizar o upload, quem acessar o hash antigo, será notificado(a) da mudança!
+
 ---
 
 ### 🔹 Janelas e Diálogos Importantes
