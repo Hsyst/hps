@@ -2,7 +2,7 @@
 # ATENÇÃO ⚠️
 ## `Mudamos de endereço`
 
-Por conta da mudança de organização da Hsyst, a partir de agora, esse projeto e suas atualizações estão disponível no GitHub do `Hsyst Eleuthery`. [Clique Aqui!](https://github.com/Hsyst-Eleuthery/hps-cli)
+Por conta da mudança de organização da Hsyst, a partir de agora, esse projeto e suas atualizações estão disponível no GitHub do `Hsyst Eleuthery`. [Clique Aqui!](https://github.com/Hsyst-Eleuthery/hps)
 # ---
 
 
